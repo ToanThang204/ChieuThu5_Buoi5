@@ -1,0 +1,273 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .table th {
+        background-color: #f2f2f2;
+    }
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+.btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+    .btn:hover {
+        background-color: #218838;
+    }
+/* Gi?i h?n chi?u r?ng c?a hình ?nh */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* T?o kho?ng cách gi?a các ph?n t? */
+.row {
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Ch?nh s?a các button */
+.btn {
+    margin-right: 10px;
+    padding: 10px 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+/* ??nh d?ng ph?n thông tin chi ti?t s?n ph?m */
+p {
+    font-size: 16px;
+}
+/* ??nh ngh?a chung cho t?t c? các nút */
+.btn {
+    padding: 5px 15px; /* Kích th??c nút */
+    border-radius: 5px; /* Bo góc nút */
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Nút Xem */
+.btn-view {
+    background-color: #007bff;
+    color: white;
+    border: 2px solid #007bff;
+}
+
+    .btn-view:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+        transform: scale(1.05); /* T?ng kích th??c nh? khi hover */
+    }
+
+/* Nút S?a */
+.btn-edit {
+    background-color: #28a745;
+    color: white;
+    border: 2px solid #28a745;
+}
+
+    .btn-edit:hover {
+        background-color: #218838;
+        border-color: #218838;
+        transform: scale(1.05);
+    }
+
+/* Nút Xóa */
+.btn-delete {
+    background-color: #dc3545;
+    color: white;
+    border: 2px solid #dc3545;
+}
+
+    .btn-delete:hover {
+        background-color: #c82333;
+        border-color: #c82333;
+        transform: scale(1.05);
+    }
+/* Giới hạn chiều rộng của hình ảnh */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Tạo khoảng cách giữa các phần tử */
+.row {
+    margin-top: 20px;
+}
+
+/* Chỉnh sửa các button */
+.btn {
+    margin-right: 10px;
+    padding: 10px 20px;
+}
+
+/* Nút Xem */
+.btn-view {
+    background-color: #007bff;
+    color: white;
+    border: 2px solid #007bff;
+}
+
+    .btn-view:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+        transform: scale(1.05); /* Tăng kích thước nhẹ khi hover */
+    }
+
+/* Nút Sửa */
+.btn-edit {
+    background-color: #28a745;
+    color: white;
+    border: 2px solid #28a745;
+}
+
+    .btn-edit:hover {
+        background-color: #218838;
+        border-color: #218838;
+        transform: scale(1.05);
+    }
+
+/* Nút Xóa */
+.btn-delete {
+    background-color: #dc3545;
+    color: white;
+    border: 2px solid #dc3545;
+}
+
+    .btn-delete:hover {
+        background-color: #c82333;
+        border-color: #c82333;
+        transform: scale(1.05);
+    }
+
+/* Định dạng các nút Action */
+.btn-action {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-action-view {
+    background-color: #007bff;
+    color: white;
+}
+
+    .btn-action-view:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+        transform: scale(1.05);
+    }
+
+.btn-action-edit {
+    background-color: #28a745;
+    color: white;
+}
+
+    .btn-action-edit:hover {
+        background-color: #218838;
+        border-color: #218838;
+        transform: scale(1.05);
+    }
+
+.btn-action-delete {
+    background-color: #dc3545;
+    color: white;
+}
+
+    .btn-action-delete:hover {
+        background-color: #c82333;
+        border-color: #c82333;
+        transform: scale(1.05);
+    }
+
+.intro-banner {
+    background: url('/images/intro-banner.jpg') no-repeat center center;
+}

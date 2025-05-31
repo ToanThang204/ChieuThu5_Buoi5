@@ -1,0 +1,14 @@
+﻿@model Lab4.Models.Category
+@{
+    ViewData["Title"] = "Chi tiết danh mục";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 p-4">
+        <h2 class="text-center fw-bold">📂 @Model.Name</h2>
+        <div class="text-center mt-3">
+            <a asp-action="Index" class="btn btn-primary">⬅️ Quay lại</a>
+            <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning">✏️ Chỉnh sửa</a>
+        </div>
+    </div>
+</div>

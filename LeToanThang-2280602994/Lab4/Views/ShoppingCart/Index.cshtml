@@ -1,0 +1,86 @@
+﻿@model ShoppingCart
+
+<h2 class="mb-4 text-primary fw-bold text-center">🛒 Giỏ Hàng Của Bạn</h2>
+
+@if (Model.Items.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-hover text-center shadow-sm rounded">
+            <thead class="bg-gradient text-white">
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Số lượng</th>
+                    <th>Giá</th>
+                    <th>Tổng</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td class="fw-bold">@item.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price.ToString("N0") đ</td>
+                        <td>@(item.Price * item.Quantity) đ</td>
+                        <td>
+                            <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId"
+                               class="btn btn-danger btn-sm rounded-pill">
+                                ❌ Xóa
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-between mt-4">
+        <a asp-action="Index" asp-controller="Home" class="btn btn-outline-primary fw-bold rounded-pill px-4">
+            ⬅ Tiếp tục mua sắm
+        </a>
+        <a asp-action="Checkout" class="btn btn-gradient fw-bold rounded-pill px-4">
+            💳 Thanh toán
+        </a>
+    </div>
+}
+else
+{
+    <div class="alert alert-warning text-center fw-bold p-4 rounded shadow-sm">
+        🛒 Giỏ hàng của bạn đang trống. <a asp-action="Index" asp-controller="Home" class="text-primary fw-bold">Mua sắm ngay!</a>
+    </div>
+}
+
+<style>
+    .text-primary {
+        color: #D70000 !important;
+    }
+    .text-gradient {
+        background: linear-gradient(135deg, #D70000, #FF4500);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .bg-gradient {
+        background: linear-gradient(135deg, #D70000, #FF4500) !important;
+    }
+
+    .btn-gradient {
+        background: linear-gradient(135deg, #D70000, #FF6347);
+        color: white;
+        border-radius: 25px;
+        transition: all 0.3s;
+        padding: 10px 20px;
+        box-shadow: 0 4px 10px rgba(215, 0, 0, 0.5);
+    }
+
+        .btn-gradient:hover {
+            background: linear-gradient(135deg, #B22222, #FF4500);
+            transform: scale(1.1);
+            box-shadow: 0 6px 15px rgba(215, 0, 0, 0.7);
+        }
+
+    .shadow-lg {
+        box-shadow: 0 12px 35px rgba(215, 0, 0, 0.3);
+    }
+</style>

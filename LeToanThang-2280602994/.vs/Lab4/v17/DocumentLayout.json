@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\migrations\\20250330135539_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\migrations\\20250330135539_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shoppingcart\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shoppingcart\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\categories\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\categories\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|d:\\lap_trinh_web\\webbuoi4\\letoanthang-2280602994\\lab4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E2FFE0B-F38B-4F03-B20A-6948C894ABB4}|Lab4\\Lab4.csproj|solutionrelative:lab4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:29:39.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:31:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:13:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Lab4\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:20:32.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T09:42:57.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab4\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Lab4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:37:02.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:27:07.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:12:42.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Lab4\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:40:25.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:18:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab4\\appsettings.json",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\appsettings.json",
+              "RelativeToolTip": "Lab4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T13:51:46.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:43:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Lab4\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "Lab4\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:43:37.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Lab4\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250330135539_Initial.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Migrations\\20250330135539_Initial.cs",
+              "RelativeDocumentMoniker": "Lab4\\Migrations\\20250330135539_Initial.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Migrations\\20250330135539_Initial.cs",
+              "RelativeToolTip": "Lab4\\Migrations\\20250330135539_Initial.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAmwHYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:55:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:11:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:23:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:35:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:35:26.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Lab4\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "Lab4\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:43:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Lab4\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:36:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\Order.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Order.cs",
+              "RelativeToolTip": "Lab4\\Models\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:36:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab4\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\CartItem.cs",
+              "RelativeToolTip": "Lab4\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\ShoppingCart.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Lab4\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:22.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\ProductImage.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Lab4\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\Product.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Product.cs",
+              "RelativeToolTip": "Lab4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:36:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\Categories.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Models\\Categories.cs",
+              "RelativeToolTip": "Lab4\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:30:15.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T02:50:57.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T02:53:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\ShoppingCart\\OrderHistory.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\OrderHistory.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\ShoppingCart\\OrderHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T04:12:17.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T03:34:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Admin\\Models\\SD.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Models\\SD.cs",
+              "RelativeToolTip": "Lab4\\Areas\\Admin\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:34:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Display.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Categories\\Display.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Display.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Categories\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:18:19.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:34:20.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwvwkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:22:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:22:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:26:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:18:18.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:18:16.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T07:18:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab4\\appsettings.Development.json",
+              "ToolTip": "D:\\Lap_Trinh_Web\\WebBuoi4\\LeToanThang-2280602994\\Lab4\\appsettings.Development.json",
+              "RelativeToolTip": "Lab4\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T07:18:06.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

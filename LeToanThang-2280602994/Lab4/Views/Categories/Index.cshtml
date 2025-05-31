@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Lab4.Models.Category>
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+
+<h2>Category List</h2>
+<a asp-action="Add" class="btn btn-primary">Add New Category</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Name</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@category.Id" class="btn btn-info">Xem</a>
+                    <a asp-action="Update" asp-route-id="@category.Id" class="btn btn-warning">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

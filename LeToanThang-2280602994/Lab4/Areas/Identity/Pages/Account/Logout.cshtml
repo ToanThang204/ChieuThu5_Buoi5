@@ -1,0 +1,57 @@
+﻿@page
+@model Lab4.Areas.Identity.Pages.LogoutModel
+
+@{
+    ViewData["Title"] = "Đăng xuất";
+}
+
+<div class="container d-flex flex-column align-items-center justify-content-center vh-100">
+    <div class="card shadow-lg p-5 text-center border-0 rounded-4 bg-light" style="max-width: 400px; width: 100%">
+        <h2 class="text-gradient fw-bold display-6">🚪 Đăng xuất</h2>
+        <p class="mt-3 fs-5 text-muted">Bạn có chắc chắn muốn đăng xuất?</p>
+        <form method="post">
+            <button type="submit" class="btn btn-gradient fw-bold w-100 py-2 rounded-pill shadow">Đăng xuất ngay</button>
+            <p class="text-center mt-3">
+                <a asp-page="/Login" class="text-link">Quay lại đăng nhập</a>
+            </p>
+        </form>
+    </div>
+</div>
+
+<style>
+    .text-gradient {
+        background: linear-gradient(135deg, #007bff, #00c6ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .btn-gradient {
+        background: linear-gradient(135deg, #007bff, #00c6ff);
+        color: white;
+        border: none;
+        transition: all 0.3s;
+    }
+
+        .btn-gradient:hover {
+            background: linear-gradient(135deg, #0056b3, #0096d6);
+            transform: scale(1.05);
+        }
+
+    .text-link {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .text-link:hover {
+            text-decoration: underline;
+        }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #f8f9fa;
+    }
+</style>

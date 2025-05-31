@@ -1,0 +1,121 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<div class="container d-flex flex-column align-items-center justify-content-center vh-100">
+    <div class="card shadow-lg p-5 text-center border-0 rounded-4 bg-light" style="max-width: 400px; width: 100%">
+        <h2 class="text-gradient fw-bold display-6">📝 Đăng ký</h2>
+        <p class="mt-3 fs-5 text-muted">Tạo tài khoản ngay để trải nghiệm dịch vụ tốt nhất!</p>
+
+        <form method="post" class="w-100 needs-validation" novalidate>
+            <div asp-validation-summary="All" class="text-danger mb-3 text-center"></div>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text bg-gradient"><i class="fas fa-user text-white"></i></span>
+                <input asp-for="Input.FullName" class="form-control" placeholder="Họ và tên" required />
+            </div>
+            <span asp-validation-for="Input.FullName" class="text-danger"></span>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text bg-gradient"><i class="fas fa-envelope text-white"></i></span>
+                <input asp-for="Input.Email" class="form-control" placeholder="Email" required />
+            </div>
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text bg-gradient"><i class="fas fa-lock text-white"></i></span>
+                <input asp-for="Input.Password" type="password" class="form-control" placeholder="Mật khẩu" required />
+            </div>
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text bg-gradient"><i class="fas fa-lock text-white"></i></span>
+                <input asp-for="Input.ConfirmPassword" type="password" class="form-control" placeholder="Xác nhận mật khẩu" required />
+            </div>
+            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text bg-gradient"><i class="fas fa-user-tag text-white"></i></span>
+                <select asp-for="Input.Role" asp-items="Model.RoleList" class="form-control" required>
+                    <option value="">Chọn vai trò</option>
+                </select>
+            </div>
+            <span asp-validation-for="Input.Role" class="text-danger"></span>
+
+            <button type="submit" class="btn btn-gradient fw-bold w-100 py-2 rounded-pill shadow">🚀 Đăng ký ngay</button>
+
+            <p class="text-center mt-3">
+                Đã có tài khoản? <a asp-page="./Login" class="text-link">Đăng nhập</a>
+            </p>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        (function () {
+            'use strict';
+            var forms = document.querySelectorAll('.needs-validation');
+            Array.prototype.slice.call(forms).forEach(function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (!form.checkValidity()) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        })();
+    </script>
+}
+
+<style>
+    .text-gradient {
+        background: linear-gradient(135deg, #007bff, #00c6ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .btn-gradient {
+        background: linear-gradient(135deg, #007bff, #00c6ff);
+        color: white;
+        border: none;
+        transition: all 0.3s;
+    }
+
+        .btn-gradient:hover {
+            background: linear-gradient(135deg, #0056b3, #0096d6);
+            transform: scale(1.05);
+        }
+
+    .input-group-text {
+        background: linear-gradient(135deg, #007bff, #00c6ff);
+        color: white;
+        border: none;
+    }
+
+    .text-link {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .text-link:hover {
+            text-decoration: underline;
+        }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #f8f9fa;
+    }
+
+    .card {
+        margin-top: 0 !important;
+    }
+</style>
